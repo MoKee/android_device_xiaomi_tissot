@@ -6,5 +6,9 @@
   {
     "repository": "android_vendor_xiaomi_tissot",
     "target_path": "vendor/xiaomi/tissot"
-  }
+  },
+  {
+    "repository": "android_kernel_xiaomi_msm8953",
+    "target_path": "kernel/xiaomi/msm8953"
+  },
 ]
